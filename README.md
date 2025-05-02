@@ -1,4 +1,5 @@
 ## Hi there 👋
+![tryhackme stats](https://raw.githubusercontent.com/Kyubie/Kyubie/master/assets/thm_propic.png)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kyubie.png" alt="Your Image Badge" />
 <!--
