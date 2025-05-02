@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3945660" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kyubie.png" alt="Your Image Badge" />
 <!--
 **Kyubie/Kyubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
