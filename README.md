@@ -3,6 +3,9 @@
 ![tryhackme stats](https://raw.githubusercontent.com/Kyubie/Kyubie/master/assets/thm_propic.png)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kyubie.png" alt="Your Image Badge" />
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png)](https://tryhackme.com/p/Kyubie)
+
 <!--
 **Kyubie/Kyubie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
