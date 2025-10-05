@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png)](https://tryhackme.com/p/Kyubie)
-
+<!-- TryHackMe Static Badge-->
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png?update=2)](https://tryhackme.com/p/Kyubie)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png)](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png?update=2)
+
 
 
 <!--
