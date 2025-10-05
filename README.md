@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png)](https://tryhackme.com/p/Kyubie)
 
-![<img src="https://tryhackme-badges.s3.amazonaws.com/Kyubie.png" alt="Your Image Badge" />]
+
 
 
 <!--
