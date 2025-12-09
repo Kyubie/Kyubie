@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!-- TryHackMe Static Badge-->
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Kyubie.png?update=2)](https://tryhackme.com/p/Kyubie)
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3945660" style='border:none;'></iframe>
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kyubie.png" alt="Your Image Badge" />
 
 <!--
